@@ -1,0 +1,70 @@
+/*  */
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  border: 50px;
+background-color: black;
+color: azure;
+
+}
+
+h2 {
+margin-top: 200px;
+margin-bottom: 100px;
+margin-left: 600px;
+margin-right: 600px;
+background-color: black;
+color: azure;
+
+}
+
+.link{
+  font-size: 24px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+a{
+  color: red;
+}
+.sub{
+  font-size: 14px;
+}
+.cal{
+  font-size: 10px;
+  font-style: italic;
+  color: orangered;
+}
+.cal2{
+  font-size: 10px;
+  font-style: italic;
+  color: coral;
+}
+.men{
+  font-size:16px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.price{
+  font-size: 14px;
+color: springgreen;
+  font-weight: bold;
+}
+body {
+  background: white url(https://d2gg9evh47fn9z.cloudfront.net/thumb_COLOURBOX10497779.jpg) repeat top right;
+}
+p {
+  margin: 20px;
+  border-color: white;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: 2px;
+border-style: dotted;
+}
+pp1 {
+  margin: 20px;
+  border-color: white;
+  border-width: 0.2px;
+}
